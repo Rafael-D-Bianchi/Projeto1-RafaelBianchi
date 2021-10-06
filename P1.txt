@@ -1,2 +1,3 @@
 Olá, meu nome é Rafael Bianchi
 Nova linha adicionada, com o propósito de testar uma segunda versão :)
+Ok, acho que entendi o processo como um todo.
